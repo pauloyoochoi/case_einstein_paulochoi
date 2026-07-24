@@ -34,4 +34,4 @@ O pacote CargaMunicipios.dtsx importa a tabela do IBGE para essa tabela.
 |---|---| 
 | `Dashboard.pbix` | Arquivo do Power BI Desktop. |
 | `Dashboard.pdf` | Exportação do dashboard em PDF, para visualização sem o Power BI instalado. | 
-| `dashboard_video.m4` | Gravação em vídeo demonstrando a navegação pelo dashboard. |
+| `dashboard_video.mp4` | Gravação em vídeo demonstrando a navegação pelo dashboard. |
