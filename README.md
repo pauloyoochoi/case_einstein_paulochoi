@@ -1,4 +1,4 @@
-## O que foi feito? 
+## Resolução do Case
 
 ### (1) Carga das notificações de síndrome gripal
 
