@@ -22,8 +22,8 @@ O pacote CargaMunicipios.dtsx importa a tabela do IBGE para essa tabela.
 |---|---| 
 | 3.a — criação da tabela de Síndrome Gripal | `CriacaoSindromeGripal.sql` | 
 | 3.a — criação da tabela de Municípios | `CriacaoMunicipio.sql` | 
-| 3.b.i — contagem por UF com filtro das UFs em lista (`IN`) | `FiltroUfs.sql` | 
-| 3.b.ii — contagem por cidade acima de 10 (`HAVING`) | `ContagemAcima10.sql` | 
+| 3.b.i — contagem por UF com filtro das UFs em lista | `FiltroUfs.sql` | 
+| 3.b.ii — contagem por cidade acima de 10 | `ContagemAcima10.sql` | 
 | 3.c.i — segunda tabela apenas com dados de São Paulo | `SaoPaulo.sql` | 
 | 3.c.ii — alteração da UF indefinida para 'ND' | `UpdateND.sql` | 
 | 3.c.iii — exclusão de 10 registros da UF 'ND' | `Delete10.sql` |
